@@ -10,5 +10,6 @@ Requisitos de instalación
 - Es necesario conexión a internet para acceder a los videotutoriales.
 
 Cualquier duda o aclaración, puedes contactar al desarrollador.
+
 Redes sociales:
 https://www.facebook.com/Elsaber4.Segundo/
