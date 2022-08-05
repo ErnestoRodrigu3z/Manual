@@ -6,7 +6,7 @@ Para descargar el manual, da clic en el botón verde "code" y después en Downlo
 Requisitos de instalación
 - Windows 7, 8, 10 y 11.
 - 1GB RAM
-- 50 MB de almacenamiento disponible
+- 50MB de almacenamiento disponible
 - Es necesario conexión a internet para acceder a los videotutoriales.
 
 Cualquier duda o aclaración, puedes contactar al desarrollador.
